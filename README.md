@@ -41,7 +41,11 @@ OpenPyXL
 Financial Modeling Prep API
 Example Output
 
-Screenshots of model outputs will be added here.
+[Sensitivity Analsysis Heat Map](<img width="599" height="447" alt="SensitivityAnalsysisHeatMap" src="https://github.com/user-attachments/assets/0305faca-6353-4137-aab5-c97472b73dc1" />)
+
+<br>
+
+[Intrinsic Values DataFrame](<img width="427" height="123" alt="IntrinsicValuesDataFrame" src="https://github.com/user-attachments/assets/3c3a0fe4-257d-4149-aa2c-362128a87bef" />)
 
 Roadmap
 Completed
