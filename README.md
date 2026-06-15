@@ -43,11 +43,11 @@ OpenPyXL
 Financial Modeling Prep API
 Example Output
 
-![Sensitivity Analysis Heat Map](SensitivityAnalysisHeatMap.png)
+![Sensitivity Analysis Heat Map](Sensitivity_Analsysis_HeatMap.png)
 
 <br>
 
-![Intrinsic Values DataFrame](IntrinsicValuesDataFrame.png)
+![Intrinsic Values DataFrame](Intrinsic_Values_DataFrame.png)
 
 Roadmap
 Completed
