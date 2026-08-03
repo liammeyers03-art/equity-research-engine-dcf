@@ -9,26 +9,26 @@ It combines historical financial statements, analyst estimates, discounted cash 
 
 ## Workflow
 
-### Data Collection
+### 1. Data Collection
 - Automated financial statement collection
 - Analyst revenue estimates
 - Market and valuation data
 - Comparable company identification
 
-### Financial Analysis
+### 2. Financial Analysis
 - Historical revenue and margin analysis
 - Working capital analysis
 - Capital expenditure analysis
 - Financial ratio analysis
 
-### Sanity Checks
+### 3. Sanity Checks
 - Missing financial data detection
 - Unsupported industry filtering
 - Financial statement validation
 - Tax rate validation
 - Revenue and margin consistency checks
 
-### Forecasting 
+### 4. Forecasting 
 - Analyst estimate integration
 - Revenue growth forecasting
 - Growth decay methodology
@@ -36,26 +36,26 @@ It combines historical financial statements, analyst estimates, discounted cash 
 - Operating leverage analysis
 - Data quality validation
 
-### Valuation
+### 5. Valuation
 - Multi-stage Discounted Cash Flow (DCF)
 - Perpetuity Growth Method
 - Exit Multiple Method
 - Comparable Company Analysis (Comps)
 - Sensitivity & Scenario Analysis
 
-### Validation
+### 6. Validation
 - Valuation assumption checks
 - Margin validation
 - Terminal value validation
 - Sector multiple validation
 - Intrinsic value comparison
 
-### Portfolio Construction
+### 7. Portfolio Construction
 - Stock screening and ranking
 - Mean-Variance Optimization (Modern Portfolio Theory)
 - Efficient Frontier portfolio construction
 
-### Portfolio Analytics
+### 8. Portfolio Analytics
 - Export selected companies to the [Portfolio Analytics Tracker](https://github.com/liammeyers03-art/portfolio-analytics-tracker.git)
 - Track portfolio performance and risk metrics
 - Monitor allocation and position sizing
