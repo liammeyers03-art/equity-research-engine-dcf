@@ -81,7 +81,7 @@ It combines historical financial statements, analyst estimates, discounted cash 
 
 The companies selected by this engine are passed into my Portfolio Analytics Tracker for allocation, performance measurement, and risk analysis.
 
-➡️ [Portfolio Analytics Tracker]([link-to-repo](https://github.com/liammeyers03-art/portfolio-analytics-tracker))
+➡️ [Portfolio Analytics Tracker]([link-to-repo](https://github.com/liammeyers03-art/portfolio-analytics-tracker.git)
 
 
 
