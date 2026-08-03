@@ -1,32 +1,61 @@
-# Equity Research Engine & DCF Model (Python)
-Multi-stage Discounted Cash Flow (DCF) valuation platform built in Python for equity research, forecasting, and intrinsic value analysis.
+# Python Equity Research & Portfolio Construction Engine
+A Python-based equity research engine that automates stock screening, financial forecasting, intrinsic valuation, and portfolio construction.
 
 ## Overview
 
-This project automates the process of analyzing historical financial statements, forecasting future operating performance, and estimating intrinsic value through a discounted cash flow model.
+This project automates the equity research process by collecting financial data, forecasting company performance, estimating intrinsic value, and building investment portfolios.
 
-The model integrates Income Statement, Balance Sheet, and Cash Flow Statement data to forecast Unlevered Free Cash Flow to the Firm (UFCF), calculate WACC, estimate Terminal Value, and derive an intrinsic value per share.
+It combines historical financial statements, analyst estimates, discounted cash flow (DCF) valuation, comparable company analysis, scenario analysis, and validation checks to evaluate stocks and identify potential investment opportunities.
 
 ## Key Features
-### Historical Analysis
-- Revenue growth analysis
-- Margin trend analysis
+
+### Data Collection
+- Automated financial statement collection
+- Analyst revenue estimates
+- Market and valuation data
+- Comparable company identification
+
+### Financial Analysis
+- Historical revenue and margin analysis
 - Working capital analysis
 - Capital expenditure analysis
+- Financial ratio analysis
+
+### Sanity Checks
+- Missing financial data detection
+- Unsupported industry filtering
+- Financial statement validation
+- Tax rate validation
+- Revenue and margin consistency checks
+
 ### Forecasting Engine
+- Analyst estimate integration
 - Revenue growth forecasting
 - Growth decay methodology
 - Margin convergence assumptions
 - Operating leverage analysis
-### Valuation Engine
-- UFCF projections
-- WACC calculation
-- Terminal value estimation
-- Enterprise value calculation
-- Equity value calculation
-- Intrinsic value per share
+- Data quality validation
 
-## Currnet Coverage
+### Valuation
+- Multi-stage Discounted Cash Flow (DCF)
+- Perpetuity Growth Method
+- Exit Multiple Method
+- Comparable Company Analysis (Comps)
+- Sensitivity & Scenario Analysis
+
+### Validation
+- Valuation assumption checks
+- Margin validation
+- Terminal value validation
+- Sector multiple validation
+- Intrinsic value comparison
+
+### Portfolio Construction
+- Stock screening and ranking
+- Mean-Variance Optimization (Modern Portfolio Theory)
+- Efficient Frontier portfolio construction
+
+## Example Research Portfolio
 - Adobe (ADBE)
 - Meta Platforms (META)
 - Amazon (AMZN)
