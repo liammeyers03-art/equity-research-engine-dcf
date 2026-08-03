@@ -71,5 +71,11 @@ It combines historical financial statements, analyst estimates, discounted cash 
 ## Sensitivity Analysis 
 ![Sensitivity Analysis Heat Map](Sensitivity_Analsysis_HeatMap.png)
 
+## Related Project
+
+The companies selected by this engine are passed into my Portfolio Analytics Tracker for allocation, performance measurement, and risk analysis.
+
+➡️ [Portfolio Analytics Tracker](link-to-repo)
+
 
 
