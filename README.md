@@ -55,9 +55,6 @@ It combines historical financial statements, analyst estimates, discounted cash 
 - Mean-Variance Optimization (Modern Portfolio Theory)
 - Efficient Frontier portfolio construction
 
-## Example Research Output
-![Example Research Output](example_research_output.png)
-
 ## Tech Stack
 - Pandas
 - NumPy
@@ -65,7 +62,13 @@ It combines historical financial statements, analyst estimates, discounted cash 
 - matplotlib
 - seaborn
 - Financial Modeling Prep API
+- Microsoft Excel
 
+## Example Research Output
+![Example Research Output](example_research_output.png)
+
+
+## Sensitivity Analysis 
 ![Sensitivity Analysis Heat Map](Sensitivity_Analsysis_HeatMap.png)
 
 
