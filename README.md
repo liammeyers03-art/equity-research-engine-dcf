@@ -55,7 +55,7 @@ It combines historical financial statements, analyst estimates, discounted cash 
 - Mean-Variance Optimization (Modern Portfolio Theory)
 - Efficient Frontier portfolio construction
 
-## Example Research Portfolio
+## Example Research Output
 - Adobe (ADBE)
 - Meta Platforms (META)
 - Amazon (AMZN)
