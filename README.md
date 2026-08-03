@@ -69,23 +69,4 @@ It combines historical financial statements, analyst estimates, discounted cash 
 ![Sensitivity Analysis Heat Map](Sensitivity_Analsysis_HeatMap.png)
 
 
-## Roadmap
-### Completed
 
-- Historical statement integration
-- Revenue forecasting framework
-- Cost Schedule forecasting (COGS & SG&A)
-- UFCF forecasting
-- WACC calculation
-- Analyst estimate integration
-- Terminal value calculation
-- Sensitivity Analysis
-### In Progress
-- Margin convergence modeling
-### Planned
-- Monte Carlo simulation
-- Comparable company valuation
-- Automated stock screener integration
-Disclaimer,
-
-This project is intended for educational and research purposes only and should not be considered investment advice.
