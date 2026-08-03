@@ -70,9 +70,12 @@ It combines historical financial statements, analyst estimates, discounted cash 
 - Financial Modeling Prep API
 - Microsoft Excel
 
+<br> 
+
 ## Example Research Output
 ![Example Research Output](example_research_output.png)
 
+<br>
 
 ## Sensitivity Analysis 
 ![Sensitivity Analysis Heat Map](Sensitivity_Analsysis_HeatMap.png)
