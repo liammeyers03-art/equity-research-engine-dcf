@@ -7,7 +7,7 @@ This project automates the equity research process by collecting financial data,
 
 It combines historical financial statements, analyst estimates, discounted cash flow (DCF) valuation, comparable company analysis, scenario analysis, and validation checks to evaluate stocks and identify potential investment opportunities.
 
-## Key Features
+## Workflow
 
 ### Data Collection
 - Automated financial statement collection
@@ -28,7 +28,7 @@ It combines historical financial statements, analyst estimates, discounted cash 
 - Tax rate validation
 - Revenue and margin consistency checks
 
-### Forecasting Engine
+### Forecasting 
 - Analyst estimate integration
 - Revenue growth forecasting
 - Growth decay methodology
@@ -54,6 +54,12 @@ It combines historical financial statements, analyst estimates, discounted cash 
 - Stock screening and ranking
 - Mean-Variance Optimization (Modern Portfolio Theory)
 - Efficient Frontier portfolio construction
+
+### Portfolio Analytics
+- Export selected companies to the Portfolio Analytics Tracker
+- Track portfolio performance and risk metrics
+- Monitor allocation and position sizing
+- Benchmark performance against SPY
 
 ## Tech Stack
 - Pandas
