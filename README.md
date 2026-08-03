@@ -56,7 +56,7 @@ It combines historical financial statements, analyst estimates, discounted cash 
 - Efficient Frontier portfolio construction
 
 ### Portfolio Analytics
-- Export selected companies to the Portfolio Analytics Tracker
+- Export selected companies to the [Portfolio Analytics Tracker](https://github.com/liammeyers03-art/portfolio-analytics-tracker.git)
 - Track portfolio performance and risk metrics
 - Monitor allocation and position sizing
 - Benchmark performance against SPY
@@ -77,11 +77,7 @@ It combines historical financial statements, analyst estimates, discounted cash 
 ## Sensitivity Analysis 
 ![Sensitivity Analysis Heat Map](Sensitivity_Analsysis_HeatMap.png)
 
-## Related Project
 
-The companies selected by this engine are passed into my Portfolio Analytics Tracker for allocation, performance measurement, and risk analysis.
-
-➡️ [Portfolio Analytics Tracker](https://github.com/liammeyers03-art/portfolio-analytics-tracker.git)
 
 
 
