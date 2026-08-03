@@ -56,10 +56,7 @@ It combines historical financial statements, analyst estimates, discounted cash 
 - Efficient Frontier portfolio construction
 
 ## Example Research Output
-- Adobe (ADBE)
-- Meta Platforms (META)
-- Amazon (AMZN)
-- Johnson & Johnson (JNJ)
+![Example Research Output](example_research_output.png)
 
 ## Tech Stack
 - Pandas
@@ -71,9 +68,6 @@ It combines historical financial statements, analyst estimates, discounted cash 
 
 ![Sensitivity Analysis Heat Map](Sensitivity_Analsysis_HeatMap.png)
 
-<br>
-
-![Intrinsic Values DataFrame](Intrinsic_Values_DataFrame.png)
 
 ## Roadmap
 ### Completed
